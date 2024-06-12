@@ -1,0 +1,989 @@
+@media (max-width: 1000px){
+
+.hamburger{
+    font-size: 25px;
+    margin-left: 7px;
+    visibility: visible;
+}
+.navbar{
+    background-color: #222f3d;
+    justify-content: space-between;
+    width: 100vw;
+}
+.logo{
+    margin-left: -23em;
+    visibility: visible;
+}
+.Sign2 {
+    font-size: 22px;
+    margin-right: -57em;
+    display: flex;
+    visibility: visible;
+}
+.panel{
+    display: none;
+}
+.panel2{
+    background-color: #222f3d;
+    height: 44px;
+    visibility: visible;
+    width: 100vw;
+}
+.nav-search{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: pink;
+    width: 99.5vw;
+    height: 40px;
+    border-radius: 4px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-left: 1px;
+}
+.search-all{
+    width: 50px;
+    text-align: center;
+    background-color: #f3f3f3;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border: none;
+    visibility: visible;
+}
+.search-icon{
+    width: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    color: #0f1111;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    background-color: #febd68;
+    visibility: visible;
+}
+.deliver{
+    display: none;
+}
+.location{
+    display: none;
+}
+.nav-search2{
+    display: none;
+}
+.search-all2{
+    display: none;
+}
+.search-icon2{
+    display: none;
+}
+.search-input2{
+    display: none;
+}
+.sign-in{
+    display: none;
+}
+.account{
+    display: none;
+}
+.ret{
+    display: none;
+}
+.cart p{
+    display: none;
+}
+.cart i{
+    font-size: 24px;
+    margin-left: -36px;
+}
+.order{
+    display: none;
+}
+.search-icon{
+    font-size: 1.15rem;
+}
+.hero-img {
+    height: 182px;
+    width: 96%;
+}   
+.box-img {
+    width: 216px;
+    height: 216px;
+    margin-left: 0.5em;
+}
+.shop-section{
+    width: 99vw;
+    margin-left: -5px;
+}
+.box{
+    height: 250px;
+}
+.deals-text{
+    width: 94vw;
+}
+.img-msg{
+    width: 64px;
+    height: 23px;
+    font-size: 15px;
+}
+.img-msg3{
+    width: 86px;
+    height: 23px;
+    font-size: 15px;
+}
+.img-msg7{
+    width: 79px;
+    height: 23px;
+    font-size: 15px;
+}
+.img-msg8{
+    width: 100px;
+    height: 23px;
+    font-size: 15px;
+}
+.section6{
+    width: 103.5vw;
+    height: 314px;
+    font-size: 14px;
+    margin-left: -33px;
+}
+.text5 {
+    width: 100vw;
+}
+.section7{
+    width: 100vw;
+}
+.logo2{
+    width: 152px;
+}
+.section8{
+    width: 100vw;
+}
+.foot1 a{
+    font-size: 14px;
+}
+.foot2 a{
+    font-size: 15px;
+    margin-top: 5px;
+}
+.panel-ops{
+    font-size: 13px;
+    display: none;
+}
+.search-input{
+    width: 94.5%;
+    height: 39px;
+    border: none;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    font-size: 18px;
+    visibility: visible;
+}
+.search-icon{
+    height: 40px;
+    width: 56px;
+    border: none;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    font-size: 20px;
+}
+}
+@media (max-width: 950px){
+    .hamburger{
+        margin-left: 4px;
+        visibility: visible;
+    }
+    .navbar{
+        width: 100vw;
+    }
+    .panel{
+        width: 100vw;
+    }
+    .hero-img{
+        height: 174px;
+        width: 96%;
+    }
+    .logo{
+        margin-left: -21.5em;
+    }
+    .Sign2{
+        margin-right: -53em;
+    }
+    .search-input {
+        width: 95%;
+    }
+    .box-img{
+        width: 208px;
+        height: 208px;
+    }
+    .text5{
+        width: 100vw;
+    }
+    .section6 {
+        width: 104vw;
+        height: 314px;
+        font-size: 14px;
+        margin-left: -33px;
+    }
+    .section7 {
+        width: 100vw;
+    }
+    .deals-text {
+        width: 96vw;
+    }
+}
+
+@media (max-width: 900px){
+    .box-img{
+        width: 196px;
+        height: 196px;
+    }
+    .logo{
+        margin-left: -20em;
+    }
+    .Sign2{
+        margin-right: -50em;
+    }
+    .deals-text{
+        font-size: 27px;
+    }
+    .cart i {
+        font-size: 24px;
+        margin-left: -38px;
+    }
+    .search-input {
+        width: 93.5%;
+    }
+}
+
+@media (max-width: 850px){
+    .logo{
+        margin-left: -18em;
+    }
+    .Sign2{
+        margin-right: -44em;
+    }
+    .hero-img{
+        height: 154px;
+    }
+    .box{
+        height: 210px;
+    }
+    .box-img{
+        height: 186px;
+        width: 186px;
+    }
+    .deals{
+        margin-top: -25px;
+    }
+    .section6 {
+        width: 104.1vw;
+        font-size: 12px;
+    }
+}
+@media (max-width: 800px){
+    .navbar{
+        width: 101vw;
+    }
+    .logo{
+        margin-left: -16.7em;
+    }
+    .Sign2{
+        margin-right: -40em;
+    }
+    .hero-img{
+        height: 144px;
+    }
+    .box-img{
+        width: 174px;
+        height: 174px;
+    }
+    .deals-text{
+        font-size: 26px;
+    }
+    .nav-search{
+        width: 100.5vw;
+    }
+    .panel2 {
+        width: 101vw;
+    }
+    .search-input {
+        width: 94.5%;
+    }
+    .text5 {
+        width: 101vw;
+    }
+    .section6 {
+        width: 105.5vw;
+        font-size: 12px;
+    }
+    .section7 {
+        width: 101vw;
+    }
+    .section8 {
+        width: 101vw;
+    }
+}
+@media (max-width: 750px){
+    .Sign2{
+        margin-right: -37em;
+    }
+    .logo{
+        margin-left: -15em;
+    }
+    .search-input{
+        width: 93%;
+    }
+    .hero-img{
+        height: 133px;
+        width: 95%;
+    }
+    .box-img{
+        height: 156px;
+        width: 156px;
+    }
+    .deals-text{
+        font-size: 25px;
+    }
+    .deals{
+        width: 100vw;
+        margin-top: -30px;
+    }
+    .deals-text{
+        font-size: 23px;
+    }
+    .box{
+        height: 185px;
+        width: 22%;
+    }
+    .section6{
+        font-size: 11px;
+        height: 280px;
+    }
+    .section7{
+        height: 90px;
+    }
+    .logo2{
+        height: 68px;
+        width: 130px;
+    }
+    .foot1 a{
+        font-size: 13px;
+    }
+    .foot2 a{
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 700px){
+    .logo{
+        margin-left: -13em;
+    }
+    .Sign2{
+        margin-right: -31em;
+    }
+    .hero-img{
+        height: 123px;
+    }
+    .search-input {
+        width: 103vw;
+        padding-left: 8px;
+    }
+    .box-img {
+        height: 145px;
+        width: 145px;
+    }
+    .img-msg {
+        width: 51px;
+        height: 19px;
+        font-size: 13px;
+    }
+    .img-msg3 {
+        width: 78px;
+        height: 21px;
+        font-size: 13px;
+    }
+    .img-msg7 {
+        width: 75px;
+        height: 21px;
+        font-size: 13px;
+    }
+    .img-msg8 {
+        width: 91px;
+        height: 21px;
+        font-size: 13px;
+    }
+    .box {
+        height: 175px;
+        width: 22%;
+    }
+    .deals-text {
+        font-size: 21px;
+    }
+    .text5 {
+        width: 101vw;
+    }
+    .section6 {
+        font-size: 10px;
+        height: 273px;
+        width: 106.1vw;
+    }
+    .nav-search{
+        width: 99.5vw;
+    }
+}
+
+@media (max-width: 650px){
+    .Sign2{
+        margin-right: -30em;
+        font-size: 20px;
+    }
+    .logo{
+        margin-left: -11.5em;
+    }
+    .hero-img {
+        height: 114px;
+    }
+    .box-img {
+        height: 134px;
+        width: 134px;
+    }
+    .deals-text {
+        height: 85px;
+    }
+    .deals {
+        width: 101vw;
+        margin-top: -30px;
+        margin-left: -0.1em;
+    }
+    .section6 {
+        width: 106vw;
+        font-size: 9px;
+        height: 260px;
+    }
+    ul {
+        margin-top: 35px;
+    }
+    .logo2 {
+        height: 60px;
+        width: 120px;
+    }
+    .foot1 a {
+        font-size: 12px;
+    }
+    .foot2 a {
+        font-size: 12px;
+    }
+    .box {
+        height: 162px;
+        width: 22%;
+    }
+    .search-input {
+        width: 91.5%;
+        margin-left: 1px;
+    }
+
+}
+@media (max-width: 600px){
+    .navbar {
+        width: 100vw;
+    }
+    .Sign2{
+        margin-right: -30em;
+        font-size: 18px;
+    }
+    .cart i {
+        font-size: 21px;
+        margin-left: -36px;
+    }    
+    .logo {
+        margin-left: -10.5em;
+    }
+    .hamburger{
+        margin-left: 9px;
+        font-size: 22px;
+        opacity: 1;
+    }
+    .search-input {
+        width: 89%;
+        height: 40px;
+        padding-left: 7px;
+        margin-left: 1px;
+    }
+    .hero-img {
+        height: 104px;
+    }
+    .box-img {
+        height: 122px;
+        width: 122px;
+    }
+    .box {
+        height: 150px;
+        width: 21%;
+    }
+    .img-msg{
+        margin-bottom: 11px;
+    }
+    .img-msg3{
+        margin-bottom: 11px;
+    }
+    .img-msg7{
+        margin-bottom: 11px;
+    }
+    .img-msg8{
+        margin-bottom: 11px;
+    }
+    .section6 {
+        width: 107vw;
+        font-size: 8px;
+        height: 218px;
+    }
+    ul a {
+        display: block;
+        margin-top: 15px;
+        color: #dddddd;
+    }    
+    .foot1 a {
+        font-size: 11px;
+    }
+    .foot2 a {
+        font-size: 11px;
+    }
+    .logo2 {
+        height: 50px;
+        width: 110px;
+    }
+    .section7 {
+        height: 80px;
+    }
+}
+
+
+@media (max-width: 550px){
+    .logo{
+        margin-left: -8em;
+    }
+    .Sign2 {
+        margin-right: -24em;
+    }
+    .hero-img {
+        height: 95px;
+        margin-left: 12px;
+    }
+    .panel {
+        width: 88%;
+    }
+    .box-img {
+        height: 110px;
+        width: 110px;
+    }
+    .box {
+        height: 130px;
+        width: 21%;
+    }
+    .panel {
+        width: 101vw;
+    }
+    .section6 {
+        width: 107.5vw;
+    }
+    .navbar {
+        width: 100vw;
+    }
+    .panel {
+        width: 100vw;
+    }
+    .search-input {
+        width: 89%;
+        font-size: 15px;
+    }
+    .foot1 a{
+        font-size: 10px;
+    }
+}
+@media (max-width: 500px){
+    .navbar {
+        width: 101vw;
+    }
+    .panel {
+        width: 101vw;
+    }
+    .logo {
+        margin-left: -7.5em;
+    }
+    .Sign2 {
+        margin-right: -21em;
+    }
+    .hero-img {
+        height: 86px;
+    }
+    .hamburger {
+        margin-left: 7px;
+        font-size: 19px;
+        opacity: 1;
+        visibility: visible;
+    }
+    .hero-img {
+        height: 106px;
+        margin-left: 5px;
+        width: 98%;
+    }
+    .search-input {
+        width: 86.5%;
+        font-size: 15px;
+    }
+    .box {
+        height: 231px;
+        width: 44%;
+        padding-left: 10px;
+    }
+    .box-img {
+        height: 200px;
+        width: 200px;
+    }
+    .shop-section {
+        margin-left: -13px;
+    }
+    .img-msg{
+        margin-bottom: -20px;
+        width: 46px;
+        height: 17px;
+        font-size: 13px;
+    }
+    .img-msg3{
+        margin-bottom: -20px;
+        width: 46px;
+        height: 17px;
+        font-size: 13px;
+    }
+    .img-msg7{
+        margin-bottom: -20px;
+        width: 46px;
+        height: 17px;
+        font-size: 13px;
+    }
+    .img-msg8 {
+        margin-bottom: -20px;
+        width: 100px;
+        height: 18px;
+        font-size: 13px;
+    }
+    .foot1 a {
+        font-size: 9px;
+        margin-left: 5px;
+    }
+    .cart i {
+        font-size: 18px;
+        margin-left: -27px;
+    }
+    .search-input {
+        width: 87.5%;
+        font-size: 15px;
+    }
+    .section6{
+        width: 108.5vw;
+    }
+}
+
+@media (max-width: 450px){
+    .logo {
+        margin-left: -5.5em;
+        height: 35px;
+        width: 80px;
+        margin-top: 4px;
+    }
+    .panel {
+        width: 100vw;
+    }
+    .navbar {
+        height: 45px;
+        width: 101vw;
+    }
+    .Sign2 {
+        margin-right: -17em;
+        font-size: 16px;
+    }
+    .hero-img {
+        height: 96px;
+        margin-left: 5px;
+        width: 97.5%;
+    }
+    .search-input {
+        width: 86%;
+        font-size: 15px;
+    }
+    .box-img {
+        height: 185px;
+        width: 185px;
+    }
+    .box {
+        height: 215px;
+        width: 45%;
+        padding-left: 13px;
+    }
+    .deals {
+        width: 107vw;
+        margin-top: -22px;
+        margin-left: -11px;
+    }
+    .logo2 {
+        height: 40px;
+        width: 82px;
+    }
+    .section6 {
+        width: 102.7vw;
+        padding-left: 26px;
+    }
+    .section7 {
+        height: 60px;
+        width: 101vw;
+    }
+    .foot1 a {
+        font-size: 8px;
+        margin-left: 5px;
+    }
+    .foot2 a {
+        font-size: 9px;
+    }
+    .cart i {
+        font-size: 18px;
+        margin-left: -32px;
+    }
+}
+
+@media (max-width: 400px){
+    .hamburger {
+        margin-left: 5px;
+        font-size: 16px;
+        opacity: 1;
+        visibility: visible;
+    }    
+    .logo {
+        margin-left: -4.8em;
+        height: 30px;
+        width: 73px;
+        margin-top: 7px;
+    }
+    .Sign2 {
+        margin-right: -17em;
+        font-size: 13px;
+        margin-top: 2.9px;
+    }
+    .cart i {
+        font-size: 14px;
+        margin-left: -35px;
+    }
+    .navbar {
+        height: 35px;
+        border-style: hidden;
+        width: 103vw;
+    }
+    .panel2{
+        height: 37px;
+        border-style: hidden;
+    }
+    .nav-search{
+        height: 32px;
+    }
+    .search-input {
+        width: 87%;
+        font-size: 15px;
+        height: 32px;
+        margin-left: -3px;
+    }
+    .search-icon {
+        height: 32px;
+        font-size: 16px;
+        width: 36px;
+    }
+    .hero-img {
+        height: 82px;
+        width: 96%;
+    }
+    .box-img {
+        height: 150px;
+        width: 150px;
+    }
+    .box {
+        height: 193px;
+        width: 45%;
+        padding-left: 13px;
+    }
+    .section6 {
+        width: 101.9vw;
+        font-size: 8px;
+        height: 383px;
+        padding-left: 32px;
+        flex-wrap: wrap;
+    }
+    ul {
+        margin-top: 16px;
+        width: 34%;
+        font-size: 12px;
+        font-weight: bold;
+        text-align: center;
+    }
+    ul a {
+        text-align: center;
+        font-size: 9px;
+    }
+    .section7 {
+        height: 50px;
+        width: 101.5vw;
+    }
+    .logo2 {
+        height: 35px;
+        width: 75px;
+    }
+    .text5 {
+        height: 34px;
+        font-size: 11px;
+        width: 99vw;
+        padding-left: 9px;
+    }
+    .foot1 a {
+        font-size: 6.5px;
+        margin-left: 3px;
+    }
+    .foot2 a {
+        font-size: 8px;
+    }
+    .section8{
+        height: 55px;
+        width: 101.5vw;
+    }
+    .deals{
+        width: 105vw;
+    }
+    
+}
+
+@media (max-width: 350px){
+    .logo {
+        margin-left: -4.2em;
+        height: 25px;
+        width: 60px;
+        margin-top: 10px;
+    }
+    .hamburger {
+        margin-left: 5px;
+        font-size: 13px;
+        opacity: 1;
+        visibility: visible;
+    }
+    .Sign2 {
+        margin-right: -20.5em;
+        font-size: 11px;
+    }
+    .cart i {
+        font-size: 12px;
+        margin-left: -24px;
+        margin-top: 3px;
+    }
+    .search-input {
+        width: 88%;
+        font-size: 14px;
+        height: 32px;
+        color: #dddddd;
+        margin-left: 1px;
+    }
+    .panel2{
+        width: 103vw;
+    }
+    .hero-img {
+        height: 76px;
+        width: 97%;
+    }
+    .navbar {
+        height: 27px;
+        border-style: hidden;
+    }
+    .box-img {
+        height: 145px;
+        width: 145px;
+    }
+    .box {
+        height: 170px;
+        width: 45%;
+        padding-left: 13px;
+    }
+    .deals {
+        width: 111vw;
+        margin-left: -13px;
+        margin-top: -11px;
+    }
+    .foot1 a {
+        font-size: 6px;
+        margin-left: 3px;
+    }
+    .foot2 a {
+        font-size: 7px;
+    }
+    .section8 {
+        height: 43px;
+    }
+}
+
+@media (max-width: 315px){
+    .logo {
+        margin-left: -3.7em;
+        height: 25px;
+        width: 60px;
+        margin-top: 10px;
+    }
+    .hamburger {
+        margin-left: 5px;
+        font-size: 13px;
+        opacity: 1;
+        visibility: visible;
+    }
+    .Sign2 {
+        margin-right: -16em;
+        font-size: 11px;
+    }
+    .cart i {
+        font-size: 12px;
+        margin-left: -26px;
+    }
+    .search-input {
+        width: 85.5%;
+        font-size: 14px;
+        height: 32px;
+        color: #dddddd;
+    }
+    .panel2{
+        width: 103vw;
+    }
+    .hero-img {
+        height: 71px;
+        width: 96.5%;
+    }
+    .navbar {
+        height: 27px;
+        border-style: hidden;
+    }
+    .box-img {
+        height: 135px;
+        width: 135px;
+    }
+    .box {
+        height: 170px;
+        width: 45%;
+        padding-left: 13px;
+    }
+    .deals {
+        width: 111vw;
+        margin-left: -13px;
+    }
+    .foot1 a {
+        font-size: 6px;
+        margin-left: 3px;
+    }
+    .foot2 a {
+        font-size: 7px;
+    }
+    .section8 {
+        height: 43px;
+    }
+}
